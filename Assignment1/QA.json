@@ -1,0 +1,96 @@
+{
+	"multipleChoice": [
+		{
+			"question": "What is a 'civilization'?",
+			"choices": {
+				"a": "Europe and the US",
+				"b": "The broadest construction of cultural identity",
+				"c": "A society which is intellectually accomplished",
+				"d": "Mesopotamia"
+			}
+		},
+		{
+			"question": "What are the main features of a culture?",
+			"choices": {
+				"a": "Customs and norms",
+				"b": "History and religion",
+				"c": "Language and ethnicity",
+				"d": "All of the above"
+			}
+		},
+		{
+			"question": "What are the main features of 'Western' culture",
+			"choices": {
+				"a": "Belief in universal rationality",
+				"b": "Progress through empirical science",
+				"c": "Goals involving mastery of nature",
+				"d": "All of the above"
+			}
+		},
+		{
+			"question": "What is religious fundamentalism?",
+			"choices": {
+				"a": "Extreme religious revivalism",
+				"b": "A type of political protest against the West or prevailing institutions",
+				"c": "A reaction to modernity",
+				"d": "All of the above"
+			}
+		}
+	],
+	"fillInTheBlanks": [
+		{
+			"question": "_______ is the primary Operating System of iPhone, iPod Touch and iPad."
+		},
+		{
+			"question": "An _______ is a special variable, which can store multiple values in one single variable."
+		},
+		{
+			"question": "_______ is a powerful general-purpose programming technique, and is the key to numerous critically important computational applications, ranging from combinatorial search and sorting methods methods that provide basic support for information processing to the Fast Fourier Transform for signal processing."
+		},
+		{
+			"question": "JSON stands for ____________________."
+		}
+	],
+	"multipleGuess": [
+		{
+			"question": "Which of the following frameworks are based on Model-View-Controller Architecture?",
+			"choices": {
+				"a": "Zend", 
+				"b": "Sinatra", 
+				"c": "Ruby on Rails", 
+				"d": "Django", 
+				"e": "Lift"
+			}
+		},
+		{
+			"question": "Which of the following programming langauge are influenced by C/C++?",
+			"choices": {
+				"a": "Java",
+				"b": "Python",
+				"c": "Ruby",
+				"d": "Visual Basic",
+				"e": "Lisp"
+			}
+		},
+		{
+			"question": "What are the primitive data types in the following?",
+			"choices": {
+				"a": "character",
+				"b": "object",
+				"c": "reference/pointer",
+				"d": "lists",
+				"e": "string"
+			}
+		},
+		{
+			"question": "Which of the following are dynamically typed languages?",
+			"choices": {
+				"a": "C",
+				"b": "C++",
+				"c": "PHP",
+				"d": "Java",
+				"e": "JavaScript"
+			}
+		}
+	]
+}
